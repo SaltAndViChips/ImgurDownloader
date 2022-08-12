@@ -1,0 +1,4 @@
+---
+# Imgur settings
+imgur_client_id: 'GET FROM https://api.imgur.com/oauth2/addclient'
+imgur_client_secret: 'GET FROM https://api.imgur.com/oauth2/addclient'
